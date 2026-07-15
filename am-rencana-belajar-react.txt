@@ -6,3 +6,8 @@ rencana membuat portfolio dengan react
 portfolio tema perpustakaan mini
 kemungkinan menambah portfolio lain
  - bertemakan api
+rencana membuat portfolio dengan react
+portfolio tema perpustakaan mini
+kemungkinan menambah portfolio lain
+portfolio berkaitan dengan api
+mencoba portfolio yang bagus
