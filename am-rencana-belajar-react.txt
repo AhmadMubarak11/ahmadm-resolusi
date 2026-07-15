@@ -1,8 +1,11 @@
 rencana belajar react
 
 rencana belajar react setelah apply loker
-  - apply loker pertama
-  - bila kemungkinan mungkin setelah loker kedua
+ - setelah apply banyak loker (lebih dari 2)
+rencana membuat portfolio dengan react
+portfolio tema perpustakaan mini
+kemungkinan menambah portfolio lain
+ - bertemakan api
 rencana membuat portfolio dengan react
 portfolio tema perpustakaan mini
 kemungkinan menambah portfolio lain
