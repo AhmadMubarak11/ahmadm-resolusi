@@ -1,7 +1,9 @@
 rencana belajar react
 
 rencana belajar react setelah apply loker
+  - apply loker pertama
 rencana membuat portfolio dengan react
 portfolio tema perpustakaan mini
 kemungkinan menambah portfolio lain
 portfolio berkaitan dengan api
+mencoba portfolio yang bagus
