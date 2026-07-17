@@ -1,0 +1,5 @@
+halo, salam kenal nama saya ahmad mubarak dari medan!
+
+resolusi saya:
+- membuat website landing page
+- membuat website menggunakan API
