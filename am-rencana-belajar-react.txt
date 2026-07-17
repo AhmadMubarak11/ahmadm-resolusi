@@ -6,6 +6,7 @@ rencana membuat portfolio dengan react
 portfolio tema perpustakaan mini
 kemungkinan menambah portfolio lain
  - bertemakan api
+- menggunakan fetch/rest api
 rencana membuat portfolio dengan react
 portfolio tema perpustakaan mini
 kemungkinan menambah portfolio lain
